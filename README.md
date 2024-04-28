@@ -16,7 +16,7 @@ To use this code, follow these steps:
 
 1. Clone the repository:
 
-   git clone <repository_url>
+   git clone [<repository_url>](https://github.com/ThomAlk/MIMIQ-Deep-Learning-Convolutional-Neural-Network-Model)
 
 2. Install the dependencies 
     
